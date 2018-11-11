@@ -28,5 +28,3 @@ rosdep update
 echo "source /opt/ros/indigo/setup.bash" >> ~/.bashrc
 source ~/.bashrc
 sudo apt-get install python-rosinstall
-sudo apt-get install arduino
-sudo apt-get install ros-indigo-joy
